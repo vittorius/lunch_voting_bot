@@ -1,15 +1,16 @@
-# adnow lunch bot
+# Lunch voting bot
 
-Бот, який проводить голосування на тему замовлення обіду, далі сортує забажавших у випадковому порядку, щоб визначити,
-хто повинен забирати обід із доставки.
+A bot that runs a poll on ordering lunch, then shuffles those who want to take
+part into a random order to determine who has to pick up the lunch from the
+delivery.
 
-## Команди
+## Commands
 
-- `/help` — Показати цей хелп
-- `/lunch` — Проголосувати за обід
-- `/go` — Завершити голосування і вибрати переможців :)
-- `/cancel` — Скасувати поточне голосування
+- `/help` — Show this help
+- `/lunch` — Vote for lunch
+- `/go` — End the voting and pick the winners :)
+- `/cancel` — Cancel the current vote
 
-## Хостінг
+## Hosting
 
-https://www.shuttle.rs/
+<https://www.shuttle.rs/>
